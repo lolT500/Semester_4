@@ -116,6 +116,6 @@ wobei x ∈ A und P(x) gilt.
 
 Logik vs. Types
 
-$$\exist x \in A.P(x) \leftrightarrow \sum_{x:A} P(x)$$
+$$\exists x \in A.P(x) \leftrightarrow \sum_{x:A} P(x)$$
 
 --- 
